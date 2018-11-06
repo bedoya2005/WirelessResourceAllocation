@@ -10,7 +10,7 @@ Files named as F##xxxxxxx.m are functions used by the previous files.
 
 Files ".mat", are the results of the simulations presented in the paper that motivated this work: "Effect of Large-Scale Simultaneous Multiple Users in the Resource Allocation Problem with Carrier Aggregation in Cellular Networks" by Juan Carlos Bedoya and Ahmed Abdelhadi.
 
-Finally, some vectorized figures (created in visio software, and exported as ".emf") were also added to this file. Please feel free to use them.
+Finally, some vectorized figures (created in visio software) were also added to this file. Please feel free to use them.
 
 Juan Carlos Bedoya C.
 October 3th, 2018.
